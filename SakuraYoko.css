@@ -23,6 +23,9 @@ a{
   color: #fff;
   text-decoration: none;
 }
+.home{
+  color: green;
+}
 
 .nav-list {
   text-align: center;
@@ -93,6 +96,7 @@ img {
 .row{
   display: flex;
   height: 30%;
+  margin:10px;
 }
 
 .index{
