@@ -127,7 +127,7 @@ img {
   display: flex;
 }
 .social{
-  margin: 0px 20px 0 20px;
+  margin: 0px 20px 0 100px;
 }
 .social i {
   display: flex;
